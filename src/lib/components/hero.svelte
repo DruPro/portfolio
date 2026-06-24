@@ -234,7 +234,7 @@
 <div class="blueprint-bg" aria-hidden="true"></div>
 
 <!-- NAV -->
-<nav role="navigation" aria-label="Main navigation">
+<nav aria-label="Main navigation">
     <div class="nav-logo">Alan Buenrostro</div>
 
     <div class="nav-links desktop-only">
