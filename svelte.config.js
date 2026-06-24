@@ -8,7 +8,7 @@ const config = {
         }),
         paths: {
             // Hardcode '/portfolio' if you are deploying to https://drupro.github.io/portfolio/
-            base: process.env.NODE_ENV === 'production' ? '/portfolio' : '',
+            base: '/portfolio',
         }
     }
 };
